@@ -26,8 +26,4 @@ It demonstrates two classic algorithms commonly used in market basket analysis:
 - Association rule generation with **support, confidence, and lift**.  
 - Comparison between the hash-based PCY algorithm and the counting-based Apriori approach.  
 
-## Purpose
-
-This repository is intended for **educational purposes** to illustrate how frequent itemset mining works under the hood,  
-with
 
